@@ -7,6 +7,6 @@ Auteur : [Baptiste Pesquet](https://github.com/bpesquet)
 
 ## Description
 
-* Cette version initiale n'emploie pas l'architecture MVC.
-* Les autres versions sont disponibles sur les différentes branches du dépôt
+* Cette version emploie une architecture MVC procédurale avec un contrôleur frontal.
+* Les autres versions sont disponibles sur les différentes branches du dépôt.
 
